@@ -59,7 +59,7 @@ Users can:
 4. View Gemini’s AI-generated response instantly
 
 ![Demo Screenshot]([https://github.com/<your-username>/<your-repo-name>/assets/demo_screenshot.png](https://github.com/Urrai/Image-information-Api/blob/main/B472E313-1D25-428D-9ED3-2595BAF93CB4.jpeg))
-![Demo Screenshot]([https://github.com/<your-username>/<your-repo-name>/assets/demo_screenshot.png](https://github.com/Urrai/Image-information-Api/blob/main/B472E313-1D25-428D-9ED3-2595BAF93CB4.jpeg))
+![Demo Screenshot](https://github.com/Urrai/Image-information-Api/blob/main/84A61C88-8716-46EE-8032-B4B279504809.jpeg)
 
 ---
 
